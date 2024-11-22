@@ -1,0 +1,7 @@
+.quote h1{
+    font-size: 80px;
+    font-weight: 700;
+}
+.quote button:hover{
+    background-color: green;
+}
